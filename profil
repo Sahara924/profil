@@ -1,0 +1,47 @@
+**#Informationen über mich :)**
+
+---
+
+*##Persönliche Informationen:*
+
+|-----|--------------|-------------|
+|Name | Geburtsdatum | Arbeitgeber |
+|-----|--------------|-------------|
+|Sara |  09.02.2004  | Avacone AG  |
+|Spitz|              |             |
+|-----|--------------|-------------|
+
+*##Cloud Erfahrungen/Kenntnisse:*
+
+Ich habe bisher noch nicht wirklich Cloud Erfahrungen und Kenntnisse. Ich weiss bisher nur die absoluten Basics und das aus dem bisherigen Unterricht gelernte.
+
+*##Erfahrungen mit Programmiersprachen:*
+
+-Java
+-Bash
+-My SQL
+
+Ich habe bis zum jetzigen Zeitpunkt mit den Scriptsprachen Java, Bash und MY SQL gearbeitet. Am meisten davon schätze ich SQL,  da der Aufbau der Sprache für mich sehr schlüssig und sinnvoll scheint. Somit hat es mir recht viel Spass gemacht, damit zu arbeiten.
+
+![My SQL Logo](https://pngimg.com/uploads/mysql/mysql_PNG23.png)
+
+
+1. My SQL
+2. Java
+3. Bash
+
+*##My SQL Code:*
+
+```Load Data
+Infile
+'C:/Daten/One/OneDrive - Avacone AG/Documents/Berufsschule/Module/Modul164/Miniterra_Übungsaufgaben/kontinent_daten.txt'
+Into Table kontinent
+Fields Terminated BY ';'
+Lines Terminated BY '\r\n'
+(KNR, Name, Flaeche, Einwohner, AnteilErdoberflaeche);
+
+```
+
+
+[Essen ist super](https://www.foodzurich.com/de/)
+
